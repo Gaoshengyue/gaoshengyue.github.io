@@ -1,2 +1,0 @@
-# gaoshengyue.github.io
-blog
