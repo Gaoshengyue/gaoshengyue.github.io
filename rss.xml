@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Symoon</title>
+    <link>https://gaoshengyue.github.io</link>
+    <atom:link href="https://gaoshengyue.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <description>一笔</description>
+    <generator>Solo, v4.1.0, https://solo.b3log.org</generator>
+    <lastBuildDate>Tue, 19 May 2020 17:32:59 +0800</lastBuildDate>
+    <language>zh-cn</language>
+    <item>
+      <title>接触企业级框架SpringBoot(二)</title>
+      <link>https://gaoshengyue.github.io/articles/2020/05/11/1589185451031.html</link>
+      <description><![CDATA[<p>简单拼接SpringBoot业务结构</p>]]></description>
+      <author>Gaoshengyue</author>
+      <guid>https://gaoshengyue.github.io/articles/2020/05/11/1589185451031.html</guid>
+      <category>java</category>
+      <category>springboot</category>
+      <pubDate>Mon, 11 May 2020 16:25:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>规划规划未来规划!</title>
+      <link>https://gaoshengyue.github.io/articles/2019/11/29/1575019589725.html</link>
+      <description><![CDATA[<p>自己立的Flag，流着眼泪也得实现啊</p>]]></description>
+      <author>Gaoshengyue</author>
+      <guid>https://gaoshengyue.github.io/articles/2019/11/29/1575019589725.html</guid>
+      <category>过去</category>
+      <pubDate>Mon, 23 Mar 2020 16:51:30 +0800</pubDate>
+    </item>
+    <item>
+      <title>接触企业级框架SpringBoot(一)</title>
+      <link>https://gaoshengyue.github.io/articles/2020/03/13/1584093157241.html</link>
+      <description><![CDATA[<p>java,简单的springboot示例，简单易懂的项目启动流程</p>]]></description>
+      <author>Gaoshengyue</author>
+      <guid>https://gaoshengyue.github.io/articles/2020/03/13/1584093157241.html</guid>
+      <category>java</category>
+      <category>springboot</category>
+      <pubDate>Fri, 13 Mar 2020 17:52:37 +0800</pubDate>
+    </item>
+    <item>
+      <title>K8S部署Redis主从</title>
+      <link>https://gaoshengyue.github.io/articles/2020/01/19/1579418881265.html</link>
+      <description/>
+      <author>Gaoshengyue</author>
+      <guid>https://gaoshengyue.github.io/articles/2020/01/19/1579418881265.html</guid>
+      <category>k8s</category>
+      <pubDate>Sun, 19 Jan 2020 15:28:01 +0800</pubDate>
+    </item>
+    <item>
+      <title>K8S部署Mysql(NFS持久化)</title>
+      <link>https://gaoshengyue.github.io/articles/2020/01/19/1579415277373.html</link>
+      <description><![CDATA[<p>mysql在k8s上进行持久化部署</p>]]></description>
+      <author>Gaoshengyue</author>
+      <guid>https://gaoshengyue.github.io/articles/2020/01/19/1579415277373.html</guid>
+      <category>K8S</category>
+      <pubDate>Sun, 19 Jan 2020 14:27:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>数据工程(二)：环境准备</title>
+      <link>https://gaoshengyue.github.io/articles/2019/12/31/1577773248350.html</link>
+      <description><![CDATA[<p>数据工程环境，py，vnc，anaconda简单概述</p>]]></description>
+      <author>Gaoshengyue</author>
+      <guid>https://gaoshengyue.github.io/articles/2019/12/31/1577773248350.html</guid>
+      <category>Linux</category>
+      <category>数据处理</category>
+      <category>大数据</category>
+      <pubDate>Tue, 31 Dec 2019 14:21:14 +0800</pubDate>
+    </item>
+    <item>
+      <title>数据工程(一)</title>
+      <link>https://gaoshengyue.github.io/articles/2019/12/31/1577762460228.html</link>
+      <description><![CDATA[<p>简单数据处理流程，第一步</p>]]></description>
+      <author>Gaoshengyue</author>
+      <guid>https://gaoshengyue.github.io/articles/2019/12/31/1577762460228.html</guid>
+      <category>数据处理</category>
+      <category>大数据</category>
+      <pubDate>Tue, 31 Dec 2019 11:21:38 +0800</pubDate>
+    </item>
+    <item>
+      <title>数据ETL平台Streamsets简单应用</title>
+      <link>https://gaoshengyue.github.io/articles/2019/12/20/1576837361453.html</link>
+      <description><![CDATA[<p>StreamSets简单使用案例</p>]]></description>
+      <author>Gaoshengyue</author>
+      <guid>https://gaoshengyue.github.io/articles/2019/12/20/1576837361453.html</guid>
+      <category>大数据</category>
+      <category>Docker</category>
+      <category>K8S</category>
+      <category>StreamSets</category>
+      <pubDate>Sat, 21 Dec 2019 10:01:13 +0800</pubDate>
+    </item>
+    <item>
+      <title>K8S部署Dashboard</title>
+      <link>https://gaoshengyue.github.io/articles/2019/12/19/1576742289921.html</link>
+      <description><![CDATA[<p>k8s管理页面部署，dashboard权限说明</p>]]></description>
+      <author>Gaoshengyue</author>
+      <guid>https://gaoshengyue.github.io/articles/2019/12/19/1576742289921.html</guid>
+      <category>K8S</category>
+      <category>Docker</category>
+      <pubDate>Fri, 20 Dec 2019 15:56:17 +0800</pubDate>
+    </item>
+    <item>
+      <title>单机版K8S部署(Ubuntu)</title>
+      <link>https://gaoshengyue.github.io/articles/2019/12/18/1576660459097.html</link>
+      <description><![CDATA[<p>单机部署K8S教程，出现问题的解决</p>]]></description>
+      <author>Gaoshengyue</author>
+      <guid>https://gaoshengyue.github.io/articles/2019/12/18/1576660459097.html</guid>
+      <category>Docker</category>
+      <category>K8S</category>
+      <pubDate>Wed, 18 Dec 2019 17:14:19 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
